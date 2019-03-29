@@ -19,6 +19,7 @@ export default {
 @import './styles/h5bp/browserupgrade.css';
 @import './styles/h5bp/authors-custom.css';
 
+/*
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -27,6 +28,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+*/
 
 @import './styles/h5bp/helper.css';
 @import './styles/h5bp/example-mq-rwd.css';
